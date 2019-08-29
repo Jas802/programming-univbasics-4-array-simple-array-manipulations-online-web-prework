@@ -9,3 +9,11 @@ end
 def using_pop (array, string)
   array.pop(string)
 end
+
+def pop_with_args
+
+end
+
+def using_shift (arra, string)
+  array.shift(string)
+end
